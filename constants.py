@@ -1,0 +1,11 @@
+WORM = (139,69,19)
+BEAN = (0, 255, 0)
+BACKGROUND = (255, 255, 255)
+
+WIDTH, HEIGHT = 64, 48
+BLOCK_SIZE = 10
+
+UP = (0, -1)
+DOWN = (0, 1)
+LEFT = (-1, 0)
+RIGHT = (1, 0)
