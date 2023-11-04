@@ -18,7 +18,7 @@ An engaging and classic Worm game, developed using Python and the PyGame library
 
 1. Clone the repository:
 ```
-git clone [https://github.com/TechInFive/worm-game.git](https://github.com/TechInFive/worm.git)
+git clone https://github.com/TechInFive/worm-game.git
 cd worm-game
 ```
 
